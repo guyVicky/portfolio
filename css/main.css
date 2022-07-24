@@ -176,4 +176,11 @@ section .intro .right_intro {
           flex: 1;
   height: 100vh;
 }
-/*# sourceMappingURL=main.css.map */
+
+.highlight {
+background-color:rgb(205, 162, 214);
+color:rgb(0, 0, 0);
+padding: 0px -2px; 
+font-weight: 500;
+
+}
