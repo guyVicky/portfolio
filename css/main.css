@@ -1,3 +1,15 @@
+@keyframes typing {
+  0% {
+    width: 0%;
+  }
+  50% {
+    width: 100%;
+  }
+  100% {
+    width: 0%;
+  }
+}
+
 body {
   background: #0e0c38;
   margin: 0px;
@@ -178,9 +190,9 @@ section .intro .right_intro {
 }
 
 .highlight {
+  display: inline-block;
 background-color:rgb(205, 162, 214);
 color:rgb(0, 0, 0);
 padding: 0px -2px; 
 font-weight: 500;
-
 }
