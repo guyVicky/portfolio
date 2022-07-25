@@ -14,6 +14,7 @@ body {
   background: #0e0c38;
   margin: 0px;
   padding: 0px;
+  overflow: hidden;
 }
 
 .nav {
@@ -195,4 +196,25 @@ background-color:rgb(205, 162, 214);
 color:rgb(0, 0, 0);
 padding: 0px -2px; 
 font-weight: 500;
+}
+
+.right_intro {
+  margin: 0%;
+  overflow: visible;
+}
+
+.move {
+  transform: translate(325px,50px) rotateZ(-32deg);
+}
+
+.cap {
+  text-align: center;
+  font-size: 52px;
+  letter-spacing: 10px;
+  color: white;
+}
+
+.pfp img {
+  display: block;
+  margin: auto;
 }
