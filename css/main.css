@@ -192,10 +192,10 @@ section .intro .right_intro {
 
 .highlight {
   display: inline-block;
-background-color:rgb(205, 162, 214);
-color:rgb(0, 0, 0);
-padding: 0px -2px; 
-font-weight: 500;
+  background-color:rgb(205, 162, 214);
+  color:rgb(0, 0, 0);
+  padding: 0px -2px; 
+  font-weight: 500;
 }
 
 .right_intro {
@@ -210,7 +210,7 @@ font-weight: 500;
 .cap {
   text-align: center;
   font-size: 52px;
-  letter-spacing: 10px;
+  letter-spacing: 14px;
   color: white;
 }
 
