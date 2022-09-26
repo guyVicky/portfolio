@@ -204,7 +204,7 @@ section .intro .right_intro {
 }
 
 .move {
-  transform: translate(325px,50px) rotateZ(-32deg);
+  transform: translate(325px,50px) rotateZ(-90deg);
 }
 
 .cap {
