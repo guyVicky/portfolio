@@ -198,6 +198,27 @@ section .intro .right_intro {
   font-weight: 500;
 }
 
+.custom-shape-divider-bottom-1665352037 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1665352037 svg {
+  position: relative;
+  display: block;
+  width: calc(195% + 1.3px);
+  height: 497px;
+}
+
+.custom-shape-divider-bottom-1665352037 .shape-fill {
+  fill: #FFFFFF;
+}
+
 .right_intro {
   margin: 0%;
   overflow: visible;
